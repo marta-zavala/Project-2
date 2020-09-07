@@ -1,6 +1,7 @@
 # Project 2. Storytelling
 
 ![Screenshot](input/Airbnb-Madrid-01.png)
+![myimage-alt-tag](nput/Airbnb-Madrid-01.png)
 
 Este proyecto parte de un dataset de Airbnb en Madrid (https://www.kaggle.com/rusiano/madrid-airbnb-data?select=listings.csv). 
 
