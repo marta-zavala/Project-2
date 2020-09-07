@@ -15,15 +15,15 @@ Lo que se ha hecho es coger el máximo de columnas que se consideran necesarias 
 
 Para terminar se han eliminado elementos nulos y se ha exportado a un .csv limpio.
 
-# 2. Análisis y segunda limpieza
+## 2. Análisis y segunda limpieza
 Se ha realizado un análisis más detallado del dataset, agrupando y visualizando con gráficas los datos considerados de interés para un usuario a la hora de buscar alojamiento.
 
 Durante este primer análisis se ha reducido el dataset eliminando datos con valores raros que se salían d ela media y se ha exportado el nuevo dataset a otro .csv definitivo.
 
-# 3. Storytelling
+## 3. Storytelling
 Esta es la carta de presentación para el posible comprador.
 
-1. Análisis Airbnb Madrid
+##### 1. Análisis Airbnb Madrid
 Existe un total de 19.305 diferentes alojamientos distribuidos por la Comunidad de Madrid. Airbnb agrupa estas ofertas en 21 zonas o vecindarios.
 
 A través de diferentes gráficas enseñamos al usuario las conclusiones del análisis:
@@ -33,7 +33,7 @@ A través de diferentes gráficas enseñamos al usuario las conclusiones del an�
 - El precio varía en función de las zonas, siendo la zona más cara el barrio de Salamanca con un precio medio por alojamiento de 88€/noche, y la más barata Villaverde con un precio medio de 39€/noche.
 - Por otro lado, en cuanto al tipo de alojamiento, el más caro son los apartamentos y el más bajo las habitaciones compartidas.
 
-2. Búsqueda de alojamiento
+##### 2. Búsqueda de alojamiento
 Con el análisis previo, el usuario ya conoce más o menos las condiciones de los alojamientos en Madrid, contando con ese conocimiento vamos a ayudarle a encontrar su sitio ideal.
 
 El sistema le pide al usuario los siguientes datos (mostrando las opciones disponibles):
@@ -48,7 +48,7 @@ Con las zonas que quiere visitar el usuario, se calcula la media de las distanci
 
 Por último se pide al usuario que escoja una de las opciones e introduzca el id del alojamiento para mostrarle la información más ordenada y detallada del mismo, así como el link directo a la página de la oferta en Airbnb.
 
-# 4. Extracción de datos por funciones
+## 4. Extracción de datos por funciones
 
 Este último archivo contiene la importación y la documentación de 4 de las funciones utilizadas a lo largo del proyecto, de manera que permiten a una persona eligir parametros de los datos y recibir datos relevantes (tablas, graficas, etc)
 
