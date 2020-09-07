@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.DS_Store
+.pyc
+NO_SUBIR.ipynb
+/Input/Sin_usar/
+
+
