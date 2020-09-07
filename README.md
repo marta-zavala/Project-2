@@ -1,5 +1,5 @@
 # Project 2. Storytelling
-![Screenshot](input/Airbnb-Madrid-01.jpg)
+![Screenshot](input/Airbnb-Madrid-01.png)
 Este proyecto parte de un dataset de Airbnb en Madrid. Hay una reunión con un posible comprador de tu producto/servicio y debes convencerle para que compre.
 Partiendo del dataset hay que limpiarlo, analizarlo, aplicar gráficos y mediante la técnica del storytelling convencer al usuario.
 
