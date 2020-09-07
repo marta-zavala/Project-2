@@ -23,7 +23,7 @@ Durante este primer análisis se ha reducido el dataset eliminando datos con val
 ## 3. Storytelling
 Esta es la carta de presentación para el posible comprador.
 
-##### 1. Análisis Airbnb Madrid
+### 3.1. Análisis Airbnb Madrid
 Existe un total de 19.305 diferentes alojamientos distribuidos por la Comunidad de Madrid. Airbnb agrupa estas ofertas en 21 zonas o vecindarios.
 
 A través de diferentes gráficas enseñamos al usuario las conclusiones del análisis:
@@ -33,7 +33,7 @@ A través de diferentes gráficas enseñamos al usuario las conclusiones del an�
 - El precio varía en función de las zonas, siendo la zona más cara el barrio de Salamanca con un precio medio por alojamiento de 88€/noche, y la más barata Villaverde con un precio medio de 39€/noche.
 - Por otro lado, en cuanto al tipo de alojamiento, el más caro son los apartamentos y el más bajo las habitaciones compartidas.
 
-##### 2. Búsqueda de alojamiento
+### 3.2. Búsqueda de alojamiento
 Con el análisis previo, el usuario ya conoce más o menos las condiciones de los alojamientos en Madrid, contando con ese conocimiento vamos a ayudarle a encontrar su sitio ideal.
 
 El sistema le pide al usuario los siguientes datos (mostrando las opciones disponibles):
