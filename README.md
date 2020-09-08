@@ -1,6 +1,6 @@
 # Project 2. Storytelling
 
-![Screenshot](input/Airbnb-Madrid-01.png)
+![alt text](https://www.tuexperto.com/wp-content/uploads/2017/05/Airbnb-Madrid-01.jpg)
 
 Este proyecto parte de un dataset de Airbnb en Madrid (https://www.kaggle.com/rusiano/madrid-airbnb-data?select=listings.csv). 
 
